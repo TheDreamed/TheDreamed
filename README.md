@@ -12,7 +12,7 @@
 
 - An Aspiring Full-Stack Data Scientist
 - Currently taking BS Computer Science at De La Salle University-Dasmarinas
-- Currently Data Science by Self
+- Currently Learning Data Science by Self @ IBM Data Science / Coursera
 - My LinkedIn Profile [link](https://www.linkedin.com/)
 - I am open for an Internship or a job opportunity in relation with Data Science.
 
@@ -25,7 +25,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Data-Science Related Languages**:
     
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
