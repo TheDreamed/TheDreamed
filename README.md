@@ -13,7 +13,6 @@
 - An Aspiring Full-Stack Data Scientist
 - Currently taking BS Computer Science at De La Salle University-Dasmarinas
 - Currently Learning Data Science by Self @ IBM Data Science / Coursera
-- My LinkedIn Profile [link]([https://www.linkedin.com/](https://www.linkedin.com/in/mark-spencer-jordan-728037236/))
 - I am open for an Internship or a job opportunity in relation with Data Science.
 
 <br><br>
