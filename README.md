@@ -4,12 +4,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+Computer+Science+Student+%40+De+La+Salle+University-Dasmarinas!;Currently+Studying+IBM+Data+Science+%40+Coursera;Studyin+10hrs%2Fday;Currently+finding+an+edge+on+using+Machine+Learning+for+Esports." alt="Typing SVG" /></a>
 </p>
 
-
-<br>
-
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -125,12 +119,5 @@
 ## <b>Reaching The Dream✨</b>
 
 </div>
-<br>
-<br>
-<br>
-<br>
 
----
-
-<br>
 Credits to <3 : Abdul Khalid
