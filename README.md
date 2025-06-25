@@ -10,12 +10,13 @@
 
 <br>
 
-- An Aspiring Full-Stack Data Scientist
-- Currently taking BS Computer Science at De La Salle University-Dasmarinas
-- Attained IBM's Data Science Professional Certificate (Coursera
+- An Aspiring AI Engineer
+- Computer Science Graduate @ De La Salle University - Dasmarinas
+- Attained IBM's Data Science Professional Certificate (Coursera)
 - Finished  The Data Analyst Course: Complete Data Analyst Bootcamp 2023 (Udemy)
-- Currenty Studying Intro to Tensorflow For Deep Learning (Udacity)
-- I am open for an Internship or a job opportunity in relation with Data Science.
+- Won Best in Thesis in my whole university.
+- Currenty preparing for AWS AI Practitioner Certification.
+- I am open for a job opportunity regarding AI and Python Development
 
 Current Goal: To take the exam for TensorFlow Developer Certificate.
 
