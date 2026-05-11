@@ -1,23 +1,16 @@
 <h1 align="center">
-  <b>Hi, I'm Mark Spencer Jordan</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  Hi, I'm Mark Spencer Jordan 👋
 </h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=AI+Engineer;LLM+Prompt+Engineer;NLP+Pipeline+Builder;Computer+Vision+Developer;Building+AI+Products+with+Real-World+Impact" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=700&lines=AI+Engineer;LLM+Prompt+Engineer;NLP+Pipeline+Builder;RAG+Systems+Developer;Computer+Vision+Developer" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About Me**
-
-<picture>
-  <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
-</picture>
-
-<br>
+## 👨‍💻 About Me
 
 - AI Engineer specializing in **LLM prompt engineering, NLP pipeline architecture, RAG systems, and computer vision**
 - BS Computer Science Graduate from **De La Salle University - Dasmariñas**
@@ -33,23 +26,17 @@
 **Current Focus:**  
 Building stronger production AI systems, improving LLM evaluation workflows, and expanding my portfolio in AI engineering, NLP, RAG, and computer vision.
 
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br>
+<br>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> **Skills**
-
-<br>
+## 🛠️ Skills
 
 <p align="center">
 
-### **AI Engineering & Machine Learning**
+### AI Engineering & Machine Learning
 
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
@@ -58,33 +45,33 @@ Building stronger production AI systems, improving LLM evaluation workflows, and
 
 <br>
 
-### **Data Science & Analytics**
+### Data Science & Analytics
 
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 <br>
 
-### **Web Development**
+### Web Development
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
-### **Tools & Platforms**
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </p>
 
@@ -92,20 +79,20 @@ Building stronger production AI systems, improving LLM evaluation workflows, and
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 Featured Projects
 
-### **Grow A Garden Chat**
+### Grow A Garden Chat
 - Built an AI chatbot using **RAG + Pinecone** that answers questions from the entire Grow A Garden wiki
 - Scraped, cleaned, and embedded wiki data using semantic search and OpenAI embeddings
 - Deployed the app through Streamlit and Render with a custom domain
 - Reached **5,000+ visits**
 
-### **Code Genie — AI-Powered Python Coding Assistant**
+### Code Genie — AI-Powered Python Coding Assistant
 - Developed a Flask + Monaco Editor web IDE for Python coding assistance
 - Built fast ghost-text completion workflows for Python suggestions
 - Designed a mini genetic algorithm to evaluate Claude-generated code snippets based on custom rules
 
-### **AnimoEats**
+### AnimoEats
 - Award-winning AI/nutrition-focused thesis project
 - Won **Institutional Thesis Competition Overall Champion** at DLSU-Dasmariñas
 - Recognized for innovation, technical depth, and real-world impact on student nutrition
@@ -114,7 +101,7 @@ Building stronger production AI systems, improving LLM evaluation workflows, and
 
 ---
 
-## 💼 **Experience Highlights**
+## 💼 Experience Highlights
 
 - **AI Engineer at vidaXL** — Building production NLP and LLM prompt systems for multilingual customer service automation
 - **AI Engineer at CAWIL.AI** — Worked on computer vision optimization and backend architecture improvements
@@ -126,19 +113,13 @@ Building stronger production AI systems, improving LLM evaluation workflows, and
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Stats**
-
-<br>
+## 📊 GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/TheDreamed">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheDreamed&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="Mark's GitHub Stats"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=TheDreamed&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Mark's GitHub Stats" />
 
-<a href="https://github.com/TheDreamed">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDreamed&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="Top Languages"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDreamed&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="36%" alt="Top Languages" />
 
 </div>
 
@@ -146,7 +127,7 @@ Building stronger production AI systems, improving LLM evaluation workflows, and
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheDreamed&theme=tokyonight&hide_border=false" width="450" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=TheDreamed&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 
 </div>
 
@@ -154,39 +135,25 @@ Building stronger production AI systems, improving LLM evaluation workflows, and
 
 ---
 
-## 🤝 **Connect With Me**
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mark-spencer-jordan-728037236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mark%20Spencer%20Jordan-405DE6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:markspencerjordan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-markspencerjordan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 <br>
 
-<div align="left">
-
-<ul>
-  <li>
-    <a href="https://www.linkedin.com/in/mark-spencer-jordan-728037236/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Mark%20Spencer%20Jordan-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/>
-    </a>
-  </li>
-
-  <br>
-
-  <li>
-    <a href="mailto:markspencerjordan@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-markspencerjordan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;"/>
-    </a>
-  </li>
-</ul>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br><br>
+---
 
 <div align="center">
 
-## <b>Reaching The Dream ✨</b>
+## Reaching The Dream ✨
 
 </div>
 
